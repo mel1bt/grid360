@@ -1,0 +1,106 @@
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+.bg-header{
+	position: relative;
+	background-image: url(../image/large.jpg);
+	background-size: cover;
+	}
+.p20{
+	padding:17% 0%;
+}
+.bg-opacidad{
+	background: rgba(59,56,57, 0.54);
+	z-index: 100px;
+}
+.white{
+	color: white;
+}
+.text-cent{
+	width: 50%;
+}
+.text-right{
+	text-align: right;
+}
+
+.m0{
+	margin: 0 auto;
+}
+.box-prueba{
+	position: absolute;
+	background-color: rgba(61,122,209,0.8);
+	bottom: 0;
+	width: 100%;
+}
+.content-prueba{
+	padding-top: 2%;
+}
+.border-1{
+	border:1px solid black;
+}
+.left{
+	float: right;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+ }
+ .btn-outline-primary {
+    color: white;
+    border-color: white;
+}
+.icon-serv div i {
+	border-radius: 50%;
+	box-shadow: -2px 2px 6px #DBDBDB;
+	padding: 40px;
+	color: #6CAEFF;
+}
+.light-blue{
+	color: #6CAEFF;
+}
+.sec-servicios{
+	padding: 5% 0%;
+}
+.p5{
+	padding: 5%;
+}
+.pt-25{
+	padding-top: 25%;
+}
+.line-img{
+	position: relative;
+	top: -70px;
+	text-align: center;
+}
+.logo{
+	width: 25%;
+}
+.center{
+	text-align: center;
+}
+.colum-icon i {
+	color: white;
+	background-color: #50BDEA;
+	padding: 15px;
+	border-radius: 70%;
+}
+.sec-quiero{
+	position: relative;
+}
+.colum-icon{
+	position: absolute;
+	top: 0px;
+	right: 50%;
+	line-height: 150px;
+}
+.box-prueba2{
+		background-color: rgb(81,126,184);
+		width: 100%;
+}
+.bg-gray{
+	background-color: #2A3541;
+}
+.bg-sec2{
+	background-image: url(../image/sec-2.jpg);
+	background-size: cover;
+}
